@@ -1,11 +1,11 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El trabajo trata sobre el programa que podría estar detrás de cualquier ambulatorio en el que se realizan citas a diario y se introducen fichas de nuevos pacientes.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Ana Sánchez Relaño (usuario github: anasanchezrela).
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Realizar un programa con todos los fundamentos y conceptos aprendidos en la asignatura desde el comienzo de curso hasta el final del mismo .
