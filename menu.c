@@ -1,12 +1,39 @@
-+#include <stdio.h>
+#include <stdio.h>
+
+typedef struct
+{
+	char usuario[10];
+	char clave[10];
+	
+}sesion; //en el caso de que queramos iniciar sesion para acceder al menu
+
+typedef struct
+{
+	char nombre[10];
+	char apellido1[15];
+	char apellido2[15];
+	char dni[10];
+	char fnacimiento[15];
+	//metemos grupo sanguineo? o innecesario?
+	
+}paciente;
+
+typedef struct
+{
+	int dia;
+	int mes;
+	int year;
+	int hora;
+	int min;
+	
+}cita;
+
 
 int main()
 {
 	
 	int menu;
 	int option;
-	/*Respecto a las opciones del doctor, se replantearán suprimirlas si son causa de complicar el programa*/
-
 	
 	do{
 		
